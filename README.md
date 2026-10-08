@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About me
+## 👋 About mzweb3
 
 - 🔧 I build **SEO automation tools for WordPress** under the **Maweb3** brand, written in Python and JavaScript.
 - 🌍 I work in **Persian** and English.
