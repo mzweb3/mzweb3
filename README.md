@@ -87,20 +87,10 @@ Hands-on with networking and Linux tooling to keep my automation fast, stable an
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=mzweb3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B24DFF&icon_color=FF3D81&text_color=c9d1d9" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzweb3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B24DFF&text_color=c9d1d9" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=mzweb3&theme=tokyonight&hide_border=true&background=0d1117&ring=B24DFF&fire=FF3D81&currStreakLabel=FF3D81&sideLabels=B24DFF" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mzweb3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-
 </div>
-
-<details>
-<summary><b>📈 Contribution graph</b></summary>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzweb3&bg_color=0d1117&color=B24DFF&line=7C4DFF&point=FF3D81&area=true&area_color=7C4DFF&hide_border=true" alt="Contribution graph" width="100%" />
-
-</details>
 
 <br/>
 
