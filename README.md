@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👨‍💻 About me
+## 👨‍💻 About mzweb3
 
 ```js
 const mzweb3 = {
