@@ -19,16 +19,93 @@
 
 ## 👨‍💻 About mzweb3
 
-```js
-const mzweb3 = {
-  brand:    "Maweb3",
-  building: "SEO automation tools for WordPress",
-  focus:    ["Automation", "WordPress", "Networking"],
-  code:     ["Python", "JavaScript", "SQL"],
-  speaks:   ["Persian", "English"],
-  reachMe:  "https://t.me/maweb3",
-};
-```
+<div align="center">
+
+### 👋 Hey, I'm **mzweb3**, the developer behind **Maweb3**
+
+*I turn repetitive SEO work into tools that run on their own.*
+
+</div>
+
+My main project is **SEO Bot**, a licensed automation tool for **WordPress** sites, built with **Python** and **JavaScript**. I care about tools that are *reliable*, not only fast: they pace their own requests, retry when something fails, rotate how they identify themselves and stay under license control, so they keep working in the real world and not just in a demo.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🤖 Automation
+Scripts and bots that take over the boring, repeatable parts of SEO work, from scheduling and rate limiting to retries and logging.
+
+    </td>
+    <td width="50%" valign="top">
+
+#### 🌐 WordPress & SEO
+Tools that work with WordPress sites at scale, so content and optimisation tasks take minutes instead of hours.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🔌 Networking
+Comfortable with how requests travel across the network, which keeps my automation fast, stable and safe to run.
+
+    </td>
+    <td width="50%" valign="top">
+
+#### 🗄️ Data & SQL
+Storing, querying and organising the data behind my tools with SQL and PostgreSQL.
+
+    </td>
+  </tr>
+</table>
+
+<details open>
+<summary><b>🎯 Ask me about</b> <sub>(click to collapse)</sub></summary>
+
+<br/>
+
+- ⚙️ Automating SEO tasks for WordPress
+- 🐍 Python scripting and tooling
+- 🟨 JavaScript for automation and the web
+- 🔌 Networking basics and request handling
+- 🗄️ SQL and PostgreSQL
+
+</details>
+
+<details>
+<summary><b>🧭 How I work</b> <sub>(click to expand)</sub></summary>
+
+<br/>
+
+- **Reliability first.** A tool that fails quietly is worse than no tool, so I build in retries, limits and clear errors.
+- **Small and shippable.** I ship small working versions and improve them, instead of waiting for a perfect big release.
+- **Respect the target.** Automation should be polite: paced requests, sensible limits and no needless load.
+- **Protect the work.** My commercial tools ship with a license manager and an obfuscated runtime.
+- **Clear communication.** I answer fast and explain things plainly, in Persian or English.
+
+</details>
+
+<details>
+<summary><b>⚡ Quick facts</b> <sub>(click to expand)</sub></summary>
+
+<br/>
+
+| | |
+| --- | --- |
+| 🏷️ **Brand** | Maweb3 |
+| 🔨 **Building** | SEO Bot for WordPress |
+| 💻 **Code** | Python · JavaScript · SQL |
+| 🗣️ **Languages** | Persian · English |
+| 📫 **Best way to reach me** | [Telegram @maweb3](https://t.me/maweb3) |
+
+</details>
+
+<div align="center">
+
+[![Chat on Telegram](https://img.shields.io/badge/💬_Say_hi_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maweb3)
+
+</div>
 
 <br/>
 
